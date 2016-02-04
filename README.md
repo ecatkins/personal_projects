@@ -1,4 +1,4 @@
-# Personal Projects
+# Personal Projects - Edward Atkins
 
 [Music Recommendation App] (https://github.com/ecatkins/instabilly)
 
