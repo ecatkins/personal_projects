@@ -7,7 +7,7 @@ Over the summer of 2015 I attended a coding bootcamp in New York. As our final p
 
 [Elo AFL Rankings] (https://nbviewer.jupyter.org/github/ecatkins/elo_afl/blob/master/elo_notebook.ipynb?flush_cache=true)
 
-Inspired by the data science website FiveThirtyEight's models for NFL and NBA, I developed my own model for the Australian Football League to rank and rate teams using the Elo methodology (which allows the calculation of win probabilities for any match up). After creating the base model, I employed a loss function and grid search to optimise certain parameters which are sport specific.
+Inspired by the data science website FiveThirtyEight's models for NFL and NBA, I developed my own model for the Australian Football League to rank and rate teams using the Elo methodology (which allows the calculation of win probabilities for any match up). After creating the base model, I employed a loss function and grid search to optimise certain parameters which are sport specific. In the linked ipython notebook I experiment with the Bokeh charting tool to provide interactive plots of the model's results.
 
 
 [Republican Party Debate - Sentiment Analysis] (https://github.com/adamrj/Debate-Sentiment-Analysis)
