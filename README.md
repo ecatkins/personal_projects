@@ -5,7 +5,7 @@
 Over the summer of 2015 I attended a coding bootcamp in New York. As our final project, my partner and I built a Django web-app to provide music recommendations to users. The project utilised the Spotify API to download a user's existing music, and provide recommendations based on other 'similar' users in the app. As users 'like' or 'dislike' playlists that are served to them, the app applies a bayesian model to further inform future music recommendations. ([Login] (http://moneymusic.co/) using username: 'ecatkins', password: 'ecatkins' or view screenshots in repo).
 
 
-[Elo AFL Rankings] (https://nbviewer.jupyter.org/github/ecatkins/elo_afl/blob/master/elo_notebook.ipynb)
+[Elo AFL Rankings] (https://nbviewer.jupyter.org/github/ecatkins/elo_afl/blob/master/elo_notebook.ipynb?flush_cache=true)
 
 Inspired by the data science website FiveThirtyEight's models for NFL and NBA, I developed my own model for the Australian Football League to rank and rate teams using the Elo methodology (which allows the calculation of win probabilities for any match up). After creating the base model, I employed a loss function and grid search to optimise certain parameters which are sport specific.
 
