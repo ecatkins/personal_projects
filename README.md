@@ -1,5 +1,9 @@
 # Personal Projects - Edward Atkins
 
+[Telegram Chatbot] (https://github.com/ecatkins/telegram_chatbot)
+
+Created a chatbot to interact with the Telegram Messenger API. Utilises a pre-trained Doc2Vec model to interpret user inputs and employing a retrieval-based classification (Logistic Regression) model to "chat" with the user.
+
 [Music Recommendation App] (https://github.com/ecatkins/instabilly)
 
 Over the summer of 2015 I attended a coding bootcamp in New York. As our final project, my partner and I built a Django web-app to provide music recommendations to users. The project utilised the Spotify API to download a user's existing music, and provide recommendations based on other 'similar' users in the app. As users 'like' or 'dislike' playlists that are served to them, the app applies a bayesian model to further inform future music recommendations. ([Login] (http://moneymusic.co/) using username: 'ecatkins', password: 'ecatkins' or view screenshots in repo).
